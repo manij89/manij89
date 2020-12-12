@@ -1,6 +1,7 @@
-### Hi there 👋 I am Mandy, a full stack developer with Belgian roots
+### Hallo 👋  I am Mandy, a full stack developer with Belgian roots
 
-I am a full stack developer 
+I am a full stack developer in a love affair with anything React/Javascript related.
+
 In a previous life I was an audiologist and in charge of general hearing center management. This let me combine complex hearing aid technology with a healthy dose of compassion for my patients and excellent organisational skills.
 
 Outside of programming, I am a pop/jazz singer, love climbing mountains and shredding down them on a snowboard 🏔 🏂
