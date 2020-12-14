@@ -2,6 +2,10 @@
 
 I am a full stack developer in a love affair with anything React/Javascript related.
 
+When I created my first tiny app, I knew I was hooked (and this was before React Hooks were a thing).
+I have an affinity with building clean back-end architectures (REST and Graphql) and feel a great sense of accomplishment if the end-product looks beautiful too. 
+Creating multiple applications in different frameworks (React, Angular, Express, Koa) in a short timeframe proved that I am fast learner.
+
 In a previous life I was an audiologist and in charge of general hearing center management. This let me combine complex hearing aid technology with a healthy dose of compassion for my patients and excellent organisational skills.
 
 Outside of programming, I am a pop/jazz singer, love climbing mountains and shredding down them on a snowboard 🏔 🏂
