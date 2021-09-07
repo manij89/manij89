@@ -13,8 +13,7 @@ Outside of programming, I am a pop/jazz singer, love climbing mountains and shre
 
 ### What am I doing now
 
-- 🔭 I’m about to start on my portfolio using Gatsby to showcase previous and future projects.
-- 🐝 I’m currently working on [Ongaku](https://github.com/ritammv/ongaku), a music sharing community app.
+- 🐝 I’m currently working for GetYourGuide.
 - 🌱 I’m currently learning Next.JS and diving into cloud platforms.
 - 😄 Pronouns: she/her
 
