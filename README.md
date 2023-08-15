@@ -8,7 +8,7 @@ Creating multiple applications in different frameworks (React, Angular, Express,
 
 In a previous life I was an audiologist and in charge of general hearing center management. This let me combine complex hearing aid technology with a healthy dose of compassion for my patients and excellent organisational skills.
 
-Outside of programming, I am a pop/jazz singer, love climbing mountains and shredding down them on a snowboard 🏔 🏂
+Outside of programming, I like to sing, love climbing mountains and shredding down them on a snowboard 🏔 🏂
 
 
 ### What am I doing now
