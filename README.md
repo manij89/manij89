@@ -14,7 +14,6 @@ Outside of programming, I am a pop/jazz singer, love climbing mountains and shre
 ### What am I doing now
 
 - 🐝 I’m currently working for GetYourGuide.
-- 🌱 I’m currently learning Next.JS and diving into cloud platforms.
 - 😄 Pronouns: she/her
 
 ### My toolkit
